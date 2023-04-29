@@ -1,4 +1,4 @@
 # cursormod
 Just another minecraft mod
 
-Curse : https://minecraft.curseforge.com/projects/cursor-mod
+Modrinth : https://modrinth.com/mod/cursormod
